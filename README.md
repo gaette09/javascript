@@ -1,6 +1,6 @@
 [원문:https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-# Airbnb JavaScript 스타일 가이드() {
+# Auction Promotion JavaScript 스타일 가이드() {
 
 
 ## <a name='TOC'><a name='TOC'>목차</a>
