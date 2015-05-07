@@ -1,7 +1,10 @@
+
+# [Auction](http://www.auction.co.kr) Promotion JavaScript 스타일 가이드() {
+
+에어 비앤비 자바 스크립트 스타일 가이드에서 포크,
+옥션 프로모션에 맞게 규칙을 조금 수정했습니다.
+
 [원문:https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
-
-# Auction Promotion JavaScript 스타일 가이드() {
-
 
 ## <a name='TOC'><a name='TOC'>목차</a>
 
